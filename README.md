@@ -131,7 +131,7 @@ p.note { display: none; }
 <h2><span class="yellow">深夜の星撮影を控えたので朝日を拝めました 朝7:08</span></h2>
 <a href="20250207_001.JPG" target="_blank"><img src="20250207_001.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">今朝の野鳥は電線の上からご挨拶</span></h2>
+<h2><span class="yellow">今朝の野鳥は電線の上からご挨拶<br>画像のクリックで動画再生します ↓</span></h2>
 <a href="https://youtube.com/shorts/1vtSxdgFWdQ?feature=share" target="_blank"><img src="20250207_001.png" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">ニワトリのヒナは怖いものなしで近づいてきますが、母鳥は慎重に後ろから様子見</span></h2>
