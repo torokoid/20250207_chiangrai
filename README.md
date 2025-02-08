@@ -197,7 +197,7 @@ p.note { display: none; }
 <a href="20250207_029.JPG" target="_blank"><img src="20250207_029.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br>
-<h2><span class="yellow"><a href="https://www.nao.ac.jp/astro/sky/2016/02-topics01.html" target="_blank">カノープスの説明は不要かと思いますが念の為貼ります、この文字のクリックで飛びます</a></span></h2>
+<h2><span class="yellow"><a href="https://www.cm-boso.com/canopus.html" target="_blank">Facebook繋がりの千葉の方がカノープスにまつわる神話を教えてくれました、この文字のクリックで飛びます</a></span></h2>
 
 
 <br><br>
