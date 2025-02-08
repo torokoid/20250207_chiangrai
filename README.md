@@ -146,6 +146,8 @@ p.note { display: none; }
     
 <h2><span class="yellow">お昼過ぎはいつものプール、金曜の午後は若者達が水泳の練習</span></h2>
 <a href="20250207_006.JPG" target="_blank"><img src="20250207_006.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">一人で黙々とメニューこなしてたら、コーチが声をかけてくれました</span></h2>
 <a href="20250207_007.JPG" target="_blank"><img src="20250207_007.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">今日もお空は雲一つない晴天</span></h2>
@@ -192,7 +194,7 @@ p.note { display: none; }
 
 
     
-<h2><span class="yellow">最後になりましたが、日本では地平線スレスレのカノープス<br>この高さで見えるのは熱帯地方ならでは 6日21:13</span></h2>
+<h2><span class="yellow">最後になりましたが、日本では地平線スレスレのカノープス<br>この高さで見えるのは熱帯地方ならでは 6日　21:13</span></h2>
 <a href="20250207_028.JPG" target="_blank"><img src="20250207_028.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250207_029.JPG" target="_blank"><img src="20250207_029.JPG" alt="サンプル画像" width="900" /></a>
 
