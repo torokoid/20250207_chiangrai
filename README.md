@@ -194,7 +194,7 @@ p.note { display: none; }
 
 
     
-<h2><span class="yellow">最後になりましたが、日本では地平線スレスレのカノープス<br>この高さで見えるのは熱帯地方ならでは 6日　21:13</span></h2>
+<h2><span class="yellow">最後になりましたが、日本では地平線スレスレのカノープス<br>この高さで見えるのは熱帯地方ならでは 6日 夜21:13</span></h2>
 <a href="20250207_028.JPG" target="_blank"><img src="20250207_028.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250207_029.JPG" target="_blank"><img src="20250207_029.JPG" alt="サンプル画像" width="900" /></a>
 
