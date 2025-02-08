@@ -199,8 +199,8 @@ p.note { display: none; }
 <a href="20250207_029.JPG" target="_blank"><img src="20250207_029.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br>
-<h2><span class="yellow"><a href="https://www.cm-boso.com/canopus.html" target="_blank">Facebook繋がりの千葉の方がカノープスにまつわる神話を教えてくれました、この文字のクリックで飛びます</a></span></h2>
-
+<h2><span class="yellow"><a href="https://www.cm-boso.com/canopus.html" target="_blank">Facebook繋がりの千葉の方がカノープスにまつわる神話を教えてくれました、この文字のクリックで飛びます<br>下記画像のクリックでも同じサイトに飛びます ↓</a></span></h2>
+<a href="https://www.cm-boso.com/canopus.html" target="_blank"><img src="20250207_002.png" alt="サンプル画像" width="900" /></a>
 
 <br><br>
 <h2><span class="yellow">今日のBGMはRihanna, Beyonce, Ne-yo, Acilia Keys, Akon, Mary J. Blige - The Greatest Nostalgia R＆B 1990's 2000's</span></h2>
